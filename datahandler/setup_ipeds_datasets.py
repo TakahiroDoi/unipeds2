@@ -174,7 +174,7 @@ class SetupIPEDSData:
         return self.df_geol
 
   # ***************** below is for defining (private) variables  *****************   
-    data_location = '~/Dropbox/Data/IPEDS/IPEDS_Analytics_DCP_87_12_CSV/' 
+    data_location = '~/Dropbox/Data/IPEDS/IPEDS_Analytics_DCP_87_12_CSV/'
     __filein_main = data_location + 'delta_public_00_12.csv'
 
     __filein_dist = './data/ef2012a_dist_rv.csv'

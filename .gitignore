@@ -20,4 +20,5 @@
 **/*.xls
 **/*.xlsx
 **/*.html
+**/*.pyc
 /.ipynb_checkpoints
